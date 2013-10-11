@@ -1,4 +1,4 @@
 IMULoadingView
 ==============
 
-A generic configurable loading view for iOS
+A configurable (and nice looking) loading view with spinner and message for iOS.
